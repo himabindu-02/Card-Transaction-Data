@@ -1,1 +1,5 @@
-# Card-Transaction-Data
+During my internship, I worked on card transaction data analysis using Machine Learning in Python, focusing on detecting patterns and identifying anomalies in financial transactions. The project aimed to enhance fraud detection and optimize financial insights by leveraging advanced ML techniques.
+
+I implemented various machine learning algorithms, including classification and anomaly detection models, to identify suspicious activities with high accuracy. Extensive data preprocessing and feature engineering were performed to improve model performance and ensure reliable fraud detection.
+
+This experience significantly strengthened my analytical, problem-solving, and programming skills, deepening my understanding of financial data processing, machine learning workflows, and model optimization. Through this project, I gained hands-on expertise in Python libraries such as Pandas, NumPy, Scikit-learn, and TensorFlow, reinforcing my ability to apply data-driven solutions in real-world financial systems.
